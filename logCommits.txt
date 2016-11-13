@@ -1,0 +1,29 @@
+commit f9613c5aced93479d4ac999c16bb01d981a8c797
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 16:05:19 2016 -0400
+
+    ignore dist files in babel
+
+commit b66be950f54cf3294f23db34e9e0a3ba09ce9ada
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 14:29:36 2016 -0400
+
+    support inline-template
+
+commit 6d889c011680f231ed5036b9233f23764c43e16a
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 13:41:00 2016 -0400
+
+    simplify children updates
+
+commit 08f813f06eed72f4206045434ffa3063fda25b88
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri Apr 29 01:02:59 2016 -0400
+
+    optimize whitespace vnode
+
+commit 378a6fd53e589d485d0e3980ea3e3f5cfa8c75a2
+Author: Evan You <yyx990803@gmail.com>
+Date:   Thu Apr 28 23:18:11 2016 -0400
+
+    support delimiters as a component level option
